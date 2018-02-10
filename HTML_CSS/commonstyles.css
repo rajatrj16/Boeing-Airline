@@ -1,0 +1,13 @@
+.imagestyles
+{
+	border-radius:5px;
+	border:1px groove #3300ff;
+	box-shadow:2px 2px 3px #000;
+}
+.imagekesathtext
+{
+	font-family:verdana;
+	color:#30f;
+	font-size:13px;
+}
+
